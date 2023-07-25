@@ -3,6 +3,7 @@ public class Diff{
         int a=10;
         int b=5;
         System.out.println("The difference is "+(a-b));
+        System.out.println("Just say hellow");
 
 
     }
